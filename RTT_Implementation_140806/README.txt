@@ -15,3 +15,4 @@ Root Directory
     - RTT_Syscalls_GCC.c          - Low-level syscalls to retarget printf() to RTT with GCC / Newlib.
     - RTT_Syscalls_IAR.c          - Low-level syscalls to retarget printf() to RTT with IAR compiler.
 1.add support only for lib branch.
+2.changed lib.
